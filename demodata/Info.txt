@@ -1,0 +1,7 @@
+This is the demo data for SVAR File Manager. 
+
+Everything placed in this folder is available to any user of the demos. 
+
+Do not upload sensitive data here.
+
+The files can be uploaded, downloaded, created, changed or deleted by anyone.

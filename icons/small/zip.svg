@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.39941 0H15.8394L18.7194 2.88L21.5994 5.76V24H2.39941V0Z" fill="#FDCD1B"/>
+<path d="M18.7194 2.88L15.8394 0H21.5994V5.76L18.7194 2.88Z" fill="#FDCD1B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.7173 11.96C10.5503 11.96 10.4087 12.0918 10.385 12.2693L10.0164 15.0399C9.87869 16.0744 10.6265 17 11.5998 17C12.5731 17 13.3208 16.0744 13.1832 15.0399L12.8145 12.2693C12.7909 12.0918 12.6493 11.96 12.4822 11.96H10.7173ZM11.5998 16.4072C12.1299 16.4072 12.5596 16.009 12.5596 15.5177C12.5596 15.0265 12.1299 14.6283 11.5998 14.6283C11.0696 14.6283 10.6399 15.0265 10.6399 15.5177C10.6399 16.009 11.0696 16.4072 11.5998 16.4072Z" fill="white"/>
+<rect x="10" y="10" width="3" height="1" rx="0.48" fill="white"/>
+<rect x="10" y="8" width="3" height="1" rx="0.48" fill="white"/>
+<rect x="10" y="6" width="3" height="1" rx="0.48" fill="white"/>
+<rect x="10" y="4" width="3" height="1" rx="0.48" fill="white"/>
+<rect x="10" y="2" width="3" height="1" rx="0.48" fill="white"/>
+<rect x="10" width="3" height="1" rx="0.48" fill="white"/>
+</svg>
